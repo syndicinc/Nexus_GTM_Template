@@ -231,7 +231,7 @@ const templateLibrary = {
 };
 
 
-const syndicLibraryUrl = "https://clients.thyngster.com/syndic/js/";
+const syndicLibraryUrl = "https://www.nexus.syndicmarketing.com/scripts/25nzj7y";
 // Inject the script, we'll use the init callback to fire the pixel after this has been loaded
 injectScript(syndicLibraryUrl, templateLibrary.init, data.gtmOnFailure, syndicLibraryUrl);
 
