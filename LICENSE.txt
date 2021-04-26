@@ -1,201 +1,137 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+READ THIS SOFTWARE LICENSE AGREEMENT CAREFULLY BEFORE DOWNLOADING,
+INSTALLING OR USING Quality Unit, s.r.o. SUPPLIED
+SOFTWARE. THIS DOCUMENT CONSTITUTES A LICENSE TO USE THE SOFTWARE ON
+THE TERMS AND CONDITIONS APPEARING BELOW.
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+BY DOWNLOADING, INSTALLING OR USING THE SOFTWARE YOU ARE CONSENTING TO
+BE BOUND BY THIS LICENSE.  IF YOU DO NOT AGREE TO ALL OF THE TERMS OF
+THIS LICENSE, THEN DO NOT DOWNLOAD, INSTALL OR USE THE SOFTWARE.
 
-   1. Definitions.
+The following terms govern your use of the Software except to the
+extent a particular program (a) is the subject of a separate written
+agreement with Quality Unit, s.r.o. or (b) includes a
+separate "click-on" license agreement as part of the installation
+and/or download process. To the extent of a conflict between the
+provisions of the foregoing documents, the order of precedence shall
+be (1) the written agreement, (2) the click-on agreement, and (3) this
+Software License.
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+This License Agreement is entered into between Quality Unit, s.r.o., 
+the Agent and/or the owner of all rights in respect of the
+software (herein referred to as "Licensor") of the one part and you,
+the licensee on the other.
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+The computer program(s) and related documentation and materials
+(herein collectively referred to as "the Software") are licensed, not
+sold, to you for use only upon the terms of this license, and Licensor
+reserves any rights not expressly granted to you. Licensor retains
+ownership of all copies of the Software.
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+GRANT. Licensor hereby grants you a non-exclusive, non-transferable
+license to use the Software upon payment of the License Fee until the
+expiry date of the license (if any). Licensor makes no guarantee of
+the frequency, value, applicability or content of future updates or
+modifications to the Software. The Software will only be made
+available to you in electronic form for download.
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+The requirement to pay a license fee does not apply to evaluation or
+beta copies for which Licensor does not charge a license
+fee. Evaluation and beta licenses expire 30 calendar days from the
+date of this agreement, unless otherwise agreed to in writing by
+Licensor. On the date of expiry of the license, licensee agrees to
+either purchase the Software at the list price in force at that time
+or to destroy all copies of the Software in electronic or other form,
+including any copies on backup tapes or other media.
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+Licensee's use of the Software shall be limited to use on a single
+hardware chassis, on a single central processing unit, as applicable,
+or use on such greater number of chassis or central processing units
+as Licensee may have paid the required license fee.
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+Licensee's use of the Software shall also be limited, as applicable
+and set forth in Licensee's purchase order or in Quality Unit, s.r.o.
+ product catalog, user documentation, or web
+site, to a maximum number of (a) seats (i.e. users with access to the
+installed Software), (b) concurrent users, sessions, ports, and/or
+issued and outstanding IP addresses, and/or (c) central processing
+unit cycles or instructions per second. Licensee's use of the Software
+shall also be limited by any other restrictions set forth in
+Licensee's purchase order or in Quality Unit, s.r.o.
+product catalog, user documentation or web site for the
+Software.
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+You may not: permit other individuals to use the Software except under
+the terms listed above; translate, reverse engineer, decompile,
+decrypt, reverse engineer, disassemble (except to the extent
+applicable laws specifically prohibit such restriction), or create
+derivative works based on the Software; copy the Software (except for
+back-up purposes); rent, lease, transfer, assign, sub-license or
+otherwise transfer rights to the Software; or remove any proprietary
+notices or labels on the Software.
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+TITLE. Title, ownership rights, and intellectual property rights in
+and to the Software and any derived works shall remain solely with
+Licensor. Where Licensor acts as the Agent of the Copyright holder,
+title shall remain solely with the Copyright holder. The Software is
+protected by the copyright laws of Slovakia and international
+copyright treaties.
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+DISCLAIMER OF WARRANTY. The Software is provided on an "AS IS" basis,
+without warranty of any kind, including without limitation the
+warranties of merchantability, fitness for a particular purpose and
+non-infringement. The entire risk as to the quality and performance of
+the Software is borne by you. Should the Software prove defective, you
+and not Licensor assume the entire cost of any service and
+repair. This disclaimer of warranty constitutes an essential part of
+the agreement. SOME STATES DO NOT ALLOW EXCLUSIONS OF AN IMPLIED
+WARRANTY, SO THIS DISCLAIMER MAY NOT APPLY TO YOU AND YOU MAY HAVE
+OTHER LEGAL RIGHTS THAT VARY FROM STATE TO STATE OR BY JURISDICTION.
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+LIMITATION OF LIABILITY. UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL
+THEORY, TORT, CONTRACT, OR OTHERWISE, SHALL LICENSOR OR ITS SUPPLIERS
+OR RESELLERS BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY INDIRECT,
+SPECIAL, INCIDENTAL, OR CONSEQUENTIAL OR PUNITIVE DAMAGES OF ANY
+CHARACTER INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL,
+WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER
+COMMERCIAL DAMAGES OR LOSSES. IN NO EVENT WILL LICENSOR BE LIABLE FOR
+ANY DAMAGES IN EXCESS OF LICENSOR'S LIST PRICE FOR A LICENSE TO THE
+SOFTWARE, EVEN IF LICENSOR SHALL HAVE BEEN INFORMED OF THE POSSIBILITY
+OF SUCH DAMAGES, OR FOR ANY CLAIM BY ANY OTHER PARTY. THIS LIMITATION
+OF LIABILITY SHALL NOT APPLY TO LIABILITY FOR DEATH OR PERSONAL INJURY
+TO THE EXTENT APPLICABLE LAW PROHIBITS SUCH LIMITATION. FURTHERMORE,
+SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR
+CONSEQUENTIAL DAMAGES, SO THIS LIMITATION AND EXCLUSION MAY NOT APPLY
+TO YOU.
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
+PROPRIETARY NOTICES. Licensee agrees to maintain and reproduce all
+copyright and other proprietary notices on all copies, in any form, of
+the Software in the same form and manner that such copyright and other
+proprietary notices are included on the Software. Except as expressly
+authorized in this Agreement, Licensee shall not make any copies or
+duplicates or any Software without the prior written permission of
+Licensor. Licensee may make such backup copies of the Software as may be
+necessary for Licensee's lawful use, provided Licensee affixes to such
+copies all copyright, confidentiality, and proprietary notices that
+appear on the original.
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+TERMINATION. This license will terminate automatically if you fail to
+comply with the limitations described above. On termination, you must
+destroy all copies of the Software in electronic or other form,
+including any copies on backup tapes or other media. Upon termination
+of this License for any reason, you shall have no right to refund of
+the whole or part of any License Fee paid.
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+MISCELLANEOUS. This Agreement represents the complete agreement
+concerning this license between the parties and supersedes all prior
+agreements and representations between them. It may be amended only by
+a writing executed by both parties. If any provision of this Agreement
+is held to be unenforceable for any reason, such provision shall be
+reformed only to the extent necessary to make it enforceable. This
+Agreement shall be governed by and construed under the laws of the
+Slovakia. The application the United Nations
+Convention of Contracts for the International Sale of Goods is
+expressly excluded.
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
-
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
-
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
-
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
-
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
-
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
-
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
-
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
-
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
-
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
-
-   END OF TERMS AND CONDITIONS
-
-   APPENDIX: How to apply the Apache License to your work.
-
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
-
-   Copyright [yyyy] [name of copyright owner]
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+Quality Unit, s.r.o. Standard End User License Agreement 
+Version 1.0 
+Last Changed 22.12.2004
