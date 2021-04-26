@@ -15,5 +15,5 @@
 homepage: "https://syndicinc.com/"
 documentation: "https://syndicinc.com/"
 versions:
-  - sha: 1b44a215fbd020cc4b82cf51318818f74278e60a
+  - sha: d6ae0dab2c2bb73af6200f5bb3440752751d54fa
     changeNotes: Initial Version
